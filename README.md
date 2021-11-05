@@ -1,2 +1,3 @@
 # Proyectos
 Proyectos Escolares 
+Amtes de bajar los archivos se recomienda tener instalado ...
